@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(66, 66, 66)
+}
+h1 {
+    font-size: 100px;
+}
+
+#titular {
+    color: red;
+}
+
+span {
+    color: blue;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.color-red {
+    color: red;
+}
